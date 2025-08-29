@@ -67,10 +67,11 @@ The app will be running at http://localhost:5173
 ##📸 Screenshots
 
 Home Page (Search by ingredient)
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/f2ca9125-eeac-450e-a51c-4f535391caf1" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/154a3839-7de2-4b8c-818a-81de6fb12bd0" />
 
 Recipe Details Page (Instructions + Ingredients)
-<img width="550" height="770" alt="Screenshot 2025-08-29 155219" src="https://github.com/user-attachments/assets/b283cd80-679c-4680-bcaf-18bf3979849d" />
+<img width="550" height="770" alt="Screenshot 2025-08-29 155219" src="https://github.com/user-attachments/assets/a7cb4f63-eabd-4026-8deb-e248dd347030" />
+
 
 ##🔮 Future Improvements
 
