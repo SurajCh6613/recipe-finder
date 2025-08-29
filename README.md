@@ -64,7 +64,7 @@ npm run dev
 
 The app will be running at http://localhost:5173
 
-##📸 Screenshots
+## 📸 Screenshots
 
 Home Page (Search by ingredient)
 
@@ -75,7 +75,8 @@ Recipe Details Page (Instructions + Ingredients)
 <img width="550" height="770" alt="Screenshot 2025-08-29 155219" src="https://github.com/user-attachments/assets/a7cb4f63-eabd-4026-8deb-e248dd347030" />
 
 
-##🔮 Future Improvements
+
+## 🔮 Future Improvements
 
 🍽️ Add filters (category, cuisine, vegetarian, etc.)
 
